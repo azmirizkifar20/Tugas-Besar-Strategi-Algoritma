@@ -17,6 +17,10 @@ function main () {
         let output = null
 
         // dummy data (represent time)
+        // let arr = [900, 940, 950, 1100, 1500, 1800]
+        // let dep = [910, 1200, 1120, 1130, 1900, 2000]
+
+        // dummy data (represent time)
         let arr = dataSets.arr
         let dep = dataSets.dep
 
